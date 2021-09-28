@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jacklinus
 - 👀 I’m interested in C++ programming
-- 🌱 I’m currently learning C++ language
+- 🌱 I’m experienced C++ programmer
 - 💞️ I’m looking to collaborate on C++ projects 
 - 📫 How to reach me https://www.linkedin.com/in/wilbard-linus-38275021b/
 
