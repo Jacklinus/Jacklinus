@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++ programming
 - 🌱 I’m experienced C++ programmer
 - 💞️ I’m looking to collaborate on C++ projects and web development
-- 📫 How to reach me https://www.linkedin.com/in/wilbard-linus-38275021b/
+- 📫 How to reach me 
 
 <!---
 Jacklinus/Jacklinus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
